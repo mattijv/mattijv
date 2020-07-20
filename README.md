@@ -9,6 +9,5 @@ find fun or useful.
 Recently I participated in the [Game Maker's Toolkit Game Jam 2020](https://itch.io/jam/gmtk-2020) with
 [ALUS](https://itch.io/jam/gmtk-2020/rate/696947).
 
-I have a <a href="https://www.maybevain.com">![image with the text "website"](assets/website.svg)</a>
-where I sometimes write about stuff, or link things that I find interesting and want to
-remember later.
+I have a [WEBSITE](https://www.maybevain.com) where I sometimes write about stuff,
+or link things that I find interesting and want to remember later.
