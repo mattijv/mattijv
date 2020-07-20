@@ -1,0 +1,39 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="80"
+  height="17"
+  viewBox="0 0 80 17"
+>
+  <foreignObject width="80" height="24">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <span class="text">
+        WEBSITE
+      </span>
+      <style>
+        .text {
+          font-size: 16px;
+          line-height: 1.5;
+          animation: pulse 5s infinite;
+        }
+        @keyframes pulse {
+          0% {
+            color: #4fd1c5;
+          }
+          25% {
+            color: #667eea;
+          }
+          50% {
+            color: #d53f8c;
+          }
+          75% {
+            color: #667eea;
+          }
+          100% {
+            color: #4fd1c5;
+          }
+        }
+      </style>
+    </div>
+  </foreignObject>
+</svg>
+

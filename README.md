@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mattijv/mattijv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer, mostly working on interwebs related things.
 
-Here are some ideas to get you started:
+During the day I'm a mild-mannered [Magento 2](https://github.com/magento/magento2)
+developer. During the night I don a cape and work on side projects I personally
+find interesting or useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently I participated in the [Game Maker's Toolkit Game Jam 2020](https://itch.io/jam/gmtk-2020) with
+[ALUS](https://itch.io/jam/gmtk-2020/rate/696947).
+
+I have a <a href="https://www.maybevain.com">![image with the text "website"](assets/website.svg)</a>
+where I sometimes write about stuff, or link things that I find interesting and want to
+remember later.
